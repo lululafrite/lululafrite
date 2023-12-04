@@ -7,7 +7,7 @@ processes and procedures. They also allow you to create your quality system and 
 around an integrated organization adapted to your needs.
 </br>email: ludovic.follaco@free.fr
 </br>linkedin: <a href="linkedin.com/in/ludovic-follaco-a74b5394">linkedin.com/in/ludovic-follaco-a74b5394</a>
-</br><strong><u>Mes Compétences :</u></strong>
+</br><u><strong>Mes Compétences :</strong></u>
 </br><strong>Développement :</strong> HTML, CSS, Javascript, PHP, C#, MySql, VBA Excel, Visual Basic, VBA & VB NET CATIA,
 </br><strong>Produit/Process :</strong> Electricité, Electronique, informatique, microcontroleur, faisceaux électrique, mécatronique ...
 </br><strong>CAO/DAO :</strong> CATIA, ELECTRE, AUTOCAD ...
