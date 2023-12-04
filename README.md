@@ -6,7 +6,7 @@ interactions between systems. My solutions are integrated into the company's qua
 processes and procedures. They also allow you to create your quality system and access your certification
 around an integrated organization adapted to your needs.
 - email: ludovic.follaco@free.fr
-- linkedin: linkedin.com/in/ludovic-follaco-a74b5394
+- linkedin: linkedin.com/in/ludovic-follaco-a74b5394.
 
 - Bonjour,
 - Je suis consulant doté d'une expertise reconnue dans l'industrie des véhicules de transport.
