@@ -7,6 +7,11 @@ processes and procedures. They also allow you to create your quality system and 
 around an integrated organization adapted to your needs.
 </br>email: ludovic.follaco@free.fr
 </br>linkedin: <a href="linkedin.com/in/ludovic-follaco-a74b5394">linkedin.com/in/ludovic-follaco-a74b5394</a>
+Compétences :
+Développement : HTML, CSS, Javascript, PHP, C#, MySql, VBA Excel, Visual Basic, VBA & VB NET CATIA,
+Produit/Process : Electricité, Electronique, informatique, microcontroleur, faisceaux électrique, mécatronique ...
+CAO/DAO : CATIA, ELECTRE, AUTOCAD ...
+Gestion : Vente, Qualité, Projet, Production, bonne connaissance des différents services administratifs d'une entreprise ...
 
 Bonjour,
 </br>Je suis consulant doté d'une expertise reconnue dans l'industrie des véhicules de transport.
@@ -17,4 +22,6 @@ les processus et procèdures. Elles permettent également de créer votre systè
 autour d'une organisation intégrée et adaptée à vos besoins.
 </br>email : ludovic.follaco@free.fr
 </br>linkedin: <a href="linkedin.com/in/ludovic-follaco-a74b5394">linkedin.com/in/ludovic-follaco-a74b5394</a>
+Compétances techniques :
+HTML, CSS, Javascript, PHP, C#, MySql, VBA Excel, Visual Basic, CATIA, VBA & VB NET CATIA, Electricité, Electronique, microcontroleur, faisceaux électrique, mécatronique ...
 
