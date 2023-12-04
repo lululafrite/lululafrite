@@ -6,7 +6,7 @@ interactions between systems. My solutions are integrated into the company's qua
 processes and procedures. They also allow you to create your quality system and access your certification
 around an integrated organization adapted to your needs.
 </br>email: ludovic.follaco@free.fr
-</br>linkedin: <a href='linkedin.com/in/ludovic-follaco-a74b5394'>linkedin.com/in/ludovic-follaco-a74b5394</a>
+</br>linkedin: <a href="linkedin.com/in/ludovic-follaco-a74b5394">linkedin.com/in/ludovic-follaco-a74b5394</a>
 
 Bonjour,
 </br>Je suis consulant doté d'une expertise reconnue dans l'industrie des véhicules de transport.
@@ -16,4 +16,4 @@ interactions entre les systèmes. Mes solutions s'ingèrent dans les systèmes q
 les processus et procèdures. Elles permettent également de créer votre système qualité et d'accéder à votre certification
 autour d'une organisation intégrée et adaptée à vos besoins.
 </br>email : ludovic.follaco@free.fr
-</br>linkedin : linkedin.com/in/ludovic-follaco-a74b5394
+</br>linkedin: <a href="linkedin.com/in/ludovic-follaco-a74b5394">linkedin.com/in/ludovic-follaco-a74b5394</a>
