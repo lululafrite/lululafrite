@@ -1,12 +1,12 @@
 Good morning,
-- I am a consultant with recognized expertise in the transport vehicle industry.
+I am a consultant with recognized expertise in the transport vehicle industry.
 I support managers in their strategies by ensuring audits of all company processes and
 offers productivity solutions by integrating application development or software allowing
 interactions between systems. My solutions are integrated into the company's quality systems and make it possible to improve
 processes and procedures. They also allow you to create your quality system and access your certification
 around an integrated organization adapted to your needs.
-_email: ludovic.follaco@free.fr
-_linkedin: linkedin.com/in/ludovic-follaco-a74b5394.
+</br>email: ludovic.follaco@free.fr
+</br>linkedin: linkedin.com/in/ludovic-follaco-a74b5394.
 
 Bonjour,
 - Je suis consulant doté d'une expertise reconnue dans l'industrie des véhicules de transport.
